@@ -17,4 +17,4 @@ I'm nbsps, you can call me silvensn.😊
 </a>
 </div>
 
-[/github-snake.svg](https://github.com/nbsps/nbsps/blob/out/github-snake.svg)
+![/github-snake.svg](https://github.com/nbsps/nbsps/blob/out/github-snake.svg)
