@@ -1,9 +1,5 @@
-### Hi here 👋
-
-I'm nbsps, you can call me silvensn.😊
-
-- 🌱 I’m currently learning AI Computing Systems.
-- 📫 How to reach me: silvensn@163.com.
+- 🌱 I’m currently learning AISys.
+- 📫 How to reach me: nbsps@proton.me.
 
 <div align="center">
   <a href="https://github.com/nbsps">
